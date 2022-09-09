@@ -1,6 +1,6 @@
 # ASUStudentsInc
 Jonathan Bennett
-Jack Koster
+Jack Koster - GitHub ID - jackkoster
 Vontresa Ball
 Jalen Pugh
 TreyShawn Ricks
